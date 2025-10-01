@@ -1,6 +1,6 @@
 package edu.ncsu.monopoly;
 //aldaketa berria  
-//comment 2
+//comment 3
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
